@@ -9,7 +9,7 @@
 
 - 💬 Ask us about **Java, HTML, CSS, Javascript**
 
-- 📫 How to reach me **ouroboroswk@gmail.com**
+- 📫 How to reach me on Discord at [Withered Knights Discord](https://dsc.gg/witheredknights)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
