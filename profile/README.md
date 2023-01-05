@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, We're the Withered Knights</h1>
 <h3 align="center">We are a group of developers from various countries.</h3>
 
-- 🔭 We currently not working **on any project**
+- 🔭 We currently not working **some currently private projects**
 
-- 👯 We're looking to collaborate on **any project**
+- 👯 We're looking to collaborate on **any project because we just wanna have fun!**
 
 - 👨‍💻 All of my projects are available at [https://withered-knights.pages.dev](https://withered-knights.pages.dev)
 
