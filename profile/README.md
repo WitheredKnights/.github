@@ -5,7 +5,7 @@
 
 - 👯 We're looking to collaborate on **any project because we just wanna have fun!**
 
-- 👨‍💻 All of my projects are available at [https://withered-knights.pages.dev](https://withered-knights.pages.dev)
+- 👨‍💻 All of my projects are available at [https://witheredknights.github.io/](https://witheredknights.github.io/)
 
 - 💬 Ask us about **Java, HTML, CSS, Javascript**
 
